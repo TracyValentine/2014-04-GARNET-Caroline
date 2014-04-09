@@ -2,8 +2,8 @@ Author: Caroline Upton
 Title: "The Best Paper Ever"
 
 Introduction:
-Materials and Methods
-Results
+Materials and Methods:
+Results: Will be added later
 Discussion
 Conclusion
 References
