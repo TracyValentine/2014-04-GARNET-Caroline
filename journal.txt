@@ -3,7 +3,7 @@ Title: "The Best Paper Ever"
 
 Introduction:
 Materials and Methods
-Results
+Results: Some awesome results!
 Discussion
 Conclusion
 References
